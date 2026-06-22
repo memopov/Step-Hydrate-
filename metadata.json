@@ -1,0 +1,6 @@
+{
+  "name": "Step & Hydrate",
+  "description": "Premium step counter & hydration tracker. Features Kalman filtering, GPS tracking, end-to-end data encryption, smart localized notifications, and seamless guest-to-cloud data synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
